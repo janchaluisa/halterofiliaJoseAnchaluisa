@@ -66,7 +66,6 @@ D:\Visual Studio\PruebaInitiumSoftware\JoseAnchaluisaVillon\JoseAnchaluisaVillon
 D:\Visual Studio\PruebaInitiumSoftware\JoseAnchaluisaVillon\JoseAnchaluisaVillonApi\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.JoseAnchaluisaVillonApi.props
 D:\Visual Studio\PruebaInitiumSoftware\JoseAnchaluisaVillon\JoseAnchaluisaVillonApi\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.JoseAnchaluisaVillonApi.props
 D:\Visual Studio\PruebaInitiumSoftware\JoseAnchaluisaVillon\JoseAnchaluisaVillonApi\obj\Debug\net9.0\staticwebassets.pack.json
-D:\Visual Studio\PruebaInitiumSoftware\JoseAnchaluisaVillon\JoseAnchaluisaVillonApi\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 D:\Visual Studio\PruebaInitiumSoftware\JoseAnchaluisaVillon\JoseAnchaluisaVillonApi\obj\Debug\net9.0\JoseAnch.F3ABC024.Up2Date
 D:\Visual Studio\PruebaInitiumSoftware\JoseAnchaluisaVillon\JoseAnchaluisaVillonApi\obj\Debug\net9.0\JoseAnchaluisaVillonApi.dll
 D:\Visual Studio\PruebaInitiumSoftware\JoseAnchaluisaVillon\JoseAnchaluisaVillonApi\obj\Debug\net9.0\refint\JoseAnchaluisaVillonApi.dll

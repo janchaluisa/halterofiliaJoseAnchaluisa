@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Visual Studio\\PruebaInitiumSoftware\\JoseAnchaluisaVillon\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D94D62D-294B-40F0-AE72-22AC39C782E0}|JoseAnchaluisaVillonApi\\JoseAnchaluisaVillonApi.csproj|d:\\visual studio\\pruebainitiumsoftware\\joseanchaluisavillon\\joseanchaluisavillonapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D94D62D-294B-40F0-AE72-22AC39C782E0}|JoseAnchaluisaVillonApi\\JoseAnchaluisaVillonApi.csproj|solutionrelative:joseanchaluisavillonapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Visual Studio\\PruebaInitiumSoftware\\JoseAnchaluisaVillon\\JoseAnchaluisaVillonApi\\appsettings.json",
+              "RelativeDocumentMoniker": "JoseAnchaluisaVillonApi\\appsettings.json",
+              "ToolTip": "D:\\Visual Studio\\PruebaInitiumSoftware\\JoseAnchaluisaVillon\\JoseAnchaluisaVillonApi\\appsettings.json",
+              "RelativeToolTip": "JoseAnchaluisaVillonApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-17T17:20:05.116Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

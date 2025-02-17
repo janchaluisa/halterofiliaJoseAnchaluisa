@@ -3,40 +3,8 @@
   "WorkspaceRootPath": "D:\\Visual Studio\\PruebaInitiumSoftware\\JoseAnchaluisaVillon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1D94D62D-294B-40F0-AE72-22AC39C782E0}|JoseAnchaluisaVillonApi\\JoseAnchaluisaVillonApi.csproj|d:\\visual studio\\pruebainitiumsoftware\\joseanchaluisavillon\\joseanchaluisavillonapi\\helpers\\fileloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D94D62D-294B-40F0-AE72-22AC39C782E0}|JoseAnchaluisaVillonApi\\JoseAnchaluisaVillonApi.csproj|solutionrelative:joseanchaluisavillonapi\\helpers\\fileloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1D94D62D-294B-40F0-AE72-22AC39C782E0}|JoseAnchaluisaVillonApi\\JoseAnchaluisaVillonApi.csproj|d:\\visual studio\\pruebainitiumsoftware\\joseanchaluisavillon\\joseanchaluisavillonapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{1D94D62D-294B-40F0-AE72-22AC39C782E0}|JoseAnchaluisaVillonApi\\JoseAnchaluisaVillonApi.csproj|solutionrelative:joseanchaluisavillonapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D94D62D-294B-40F0-AE72-22AC39C782E0}|JoseAnchaluisaVillonApi\\JoseAnchaluisaVillonApi.csproj|d:\\visual studio\\pruebainitiumsoftware\\joseanchaluisavillon\\joseanchaluisavillonapi\\controllers\\atletascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D94D62D-294B-40F0-AE72-22AC39C782E0}|JoseAnchaluisaVillonApi\\JoseAnchaluisaVillonApi.csproj|solutionrelative:joseanchaluisavillonapi\\controllers\\atletascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D94D62D-294B-40F0-AE72-22AC39C782E0}|JoseAnchaluisaVillonApi\\JoseAnchaluisaVillonApi.csproj|d:\\visual studio\\pruebainitiumsoftware\\joseanchaluisavillon\\joseanchaluisavillonapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D94D62D-294B-40F0-AE72-22AC39C782E0}|JoseAnchaluisaVillonApi\\JoseAnchaluisaVillonApi.csproj|solutionrelative:joseanchaluisavillonapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D94D62D-294B-40F0-AE72-22AC39C782E0}|JoseAnchaluisaVillonApi\\JoseAnchaluisaVillonApi.csproj|d:\\visual studio\\pruebainitiumsoftware\\joseanchaluisavillon\\joseanchaluisavillonapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D94D62D-294B-40F0-AE72-22AC39C782E0}|JoseAnchaluisaVillonApi\\JoseAnchaluisaVillonApi.csproj|solutionrelative:joseanchaluisavillonapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D94D62D-294B-40F0-AE72-22AC39C782E0}|JoseAnchaluisaVillonApi\\JoseAnchaluisaVillonApi.csproj|d:\\visual studio\\pruebainitiumsoftware\\joseanchaluisavillon\\joseanchaluisavillonapi\\services\\iloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D94D62D-294B-40F0-AE72-22AC39C782E0}|JoseAnchaluisaVillonApi\\JoseAnchaluisaVillonApi.csproj|solutionrelative:joseanchaluisavillonapi\\services\\iloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D94D62D-294B-40F0-AE72-22AC39C782E0}|JoseAnchaluisaVillonApi\\JoseAnchaluisaVillonApi.csproj|d:\\visual studio\\pruebainitiumsoftware\\joseanchaluisavillon\\joseanchaluisavillonapi\\helpers\\databaseloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D94D62D-294B-40F0-AE72-22AC39C782E0}|JoseAnchaluisaVillonApi\\JoseAnchaluisaVillonApi.csproj|solutionrelative:joseanchaluisavillonapi\\helpers\\databaseloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D94D62D-294B-40F0-AE72-22AC39C782E0}|JoseAnchaluisaVillonApi\\JoseAnchaluisaVillonApi.csproj|d:\\visual studio\\pruebainitiumsoftware\\joseanchaluisavillon\\joseanchaluisavillonapi\\services\\idatabasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D94D62D-294B-40F0-AE72-22AC39C782E0}|JoseAnchaluisaVillonApi\\JoseAnchaluisaVillonApi.csproj|solutionrelative:joseanchaluisavillonapi\\services\\idatabasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D94D62D-294B-40F0-AE72-22AC39C782E0}|JoseAnchaluisaVillonApi\\JoseAnchaluisaVillonApi.csproj|d:\\visual studio\\pruebainitiumsoftware\\joseanchaluisavillon\\joseanchaluisavillonapi\\helpers\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D94D62D-294B-40F0-AE72-22AC39C782E0}|JoseAnchaluisaVillonApi\\JoseAnchaluisaVillonApi.csproj|solutionrelative:joseanchaluisavillonapi\\helpers\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,123 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Visual Studio\\PruebaInitiumSoftware\\JoseAnchaluisaVillon\\JoseAnchaluisaVillonApi\\Program.cs",
-              "RelativeDocumentMoniker": "JoseAnchaluisaVillonApi\\Program.cs",
-              "ToolTip": "D:\\Visual Studio\\PruebaInitiumSoftware\\JoseAnchaluisaVillon\\JoseAnchaluisaVillonApi\\Program.cs",
-              "RelativeToolTip": "JoseAnchaluisaVillonApi\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T20:13:06.206Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DatabaseLoggerService.cs",
-              "DocumentMoniker": "D:\\Visual Studio\\PruebaInitiumSoftware\\JoseAnchaluisaVillon\\JoseAnchaluisaVillonApi\\Helpers\\DatabaseLoggerService.cs",
-              "RelativeDocumentMoniker": "JoseAnchaluisaVillonApi\\Helpers\\DatabaseLoggerService.cs",
-              "ToolTip": "D:\\Visual Studio\\PruebaInitiumSoftware\\JoseAnchaluisaVillon\\JoseAnchaluisaVillonApi\\Helpers\\DatabaseLoggerService.cs",
-              "RelativeToolTip": "JoseAnchaluisaVillonApi\\Helpers\\DatabaseLoggerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T16:47:13.132Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IDatabaseHelper.cs",
-              "DocumentMoniker": "D:\\Visual Studio\\PruebaInitiumSoftware\\JoseAnchaluisaVillon\\JoseAnchaluisaVillonApi\\Services\\IDatabaseHelper.cs",
-              "RelativeDocumentMoniker": "JoseAnchaluisaVillonApi\\Services\\IDatabaseHelper.cs",
-              "ToolTip": "D:\\Visual Studio\\PruebaInitiumSoftware\\JoseAnchaluisaVillon\\JoseAnchaluisaVillonApi\\Services\\IDatabaseHelper.cs",
-              "RelativeToolTip": "JoseAnchaluisaVillonApi\\Services\\IDatabaseHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T16:47:00.313Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ILoggerService.cs",
-              "DocumentMoniker": "D:\\Visual Studio\\PruebaInitiumSoftware\\JoseAnchaluisaVillon\\JoseAnchaluisaVillonApi\\Services\\ILoggerService.cs",
-              "RelativeDocumentMoniker": "JoseAnchaluisaVillonApi\\Services\\ILoggerService.cs",
-              "ToolTip": "D:\\Visual Studio\\PruebaInitiumSoftware\\JoseAnchaluisaVillon\\JoseAnchaluisaVillonApi\\Services\\ILoggerService.cs",
-              "RelativeToolTip": "JoseAnchaluisaVillonApi\\Services\\ILoggerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T16:46:58.874Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FileLoggerService.cs",
-              "DocumentMoniker": "D:\\Visual Studio\\PruebaInitiumSoftware\\JoseAnchaluisaVillon\\JoseAnchaluisaVillonApi\\Helpers\\FileLoggerService.cs",
-              "RelativeDocumentMoniker": "JoseAnchaluisaVillonApi\\Helpers\\FileLoggerService.cs",
-              "ToolTip": "D:\\Visual Studio\\PruebaInitiumSoftware\\JoseAnchaluisaVillon\\JoseAnchaluisaVillonApi\\Helpers\\FileLoggerService.cs",
-              "RelativeToolTip": "JoseAnchaluisaVillonApi\\Helpers\\FileLoggerService.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBAAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T16:46:22.228Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "JwtService.cs",
-              "DocumentMoniker": "D:\\Visual Studio\\PruebaInitiumSoftware\\JoseAnchaluisaVillon\\JoseAnchaluisaVillonApi\\Helpers\\JwtService.cs",
-              "RelativeDocumentMoniker": "JoseAnchaluisaVillonApi\\Helpers\\JwtService.cs",
-              "ToolTip": "D:\\Visual Studio\\PruebaInitiumSoftware\\JoseAnchaluisaVillon\\JoseAnchaluisaVillonApi\\Helpers\\JwtService.cs",
-              "RelativeToolTip": "JoseAnchaluisaVillonApi\\Helpers\\JwtService.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAuwCUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T20:24:07.423Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "D:\\Visual Studio\\PruebaInitiumSoftware\\JoseAnchaluisaVillon\\JoseAnchaluisaVillonApi\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "JoseAnchaluisaVillonApi\\Controllers\\AuthController.cs",
-              "ToolTip": "D:\\Visual Studio\\PruebaInitiumSoftware\\JoseAnchaluisaVillon\\JoseAnchaluisaVillonApi\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "JoseAnchaluisaVillonApi\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T20:27:11.645Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Visual Studio\\PruebaInitiumSoftware\\JoseAnchaluisaVillon\\JoseAnchaluisaVillonApi\\appsettings.json",
               "RelativeDocumentMoniker": "JoseAnchaluisaVillonApi\\appsettings.json",
               "ToolTip": "D:\\Visual Studio\\PruebaInitiumSoftware\\JoseAnchaluisaVillon\\JoseAnchaluisaVillonApi\\appsettings.json",
               "RelativeToolTip": "JoseAnchaluisaVillonApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-15T20:19:33.561Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AtletasController.cs",
-              "DocumentMoniker": "D:\\Visual Studio\\PruebaInitiumSoftware\\JoseAnchaluisaVillon\\JoseAnchaluisaVillonApi\\Controllers\\AtletasController.cs",
-              "RelativeDocumentMoniker": "JoseAnchaluisaVillonApi\\Controllers\\AtletasController.cs",
-              "ToolTip": "D:\\Visual Studio\\PruebaInitiumSoftware\\JoseAnchaluisaVillon\\JoseAnchaluisaVillonApi\\Controllers\\AtletasController.cs",
-              "RelativeToolTip": "JoseAnchaluisaVillonApi\\Controllers\\AtletasController.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAYwCYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T15:55:01.003Z",
+              "WhenOpened": "2025-02-17T17:20:05.116Z",
               "EditorCaption": ""
             }
           ]
