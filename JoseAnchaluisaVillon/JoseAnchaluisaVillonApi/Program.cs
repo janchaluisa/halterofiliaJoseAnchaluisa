@@ -7,7 +7,7 @@ using JoseAnchaluisaVillonApi.Services;
 var builder = WebApplication.CreateBuilder(args);
 
 // Configuración de autenticación con JWT
-var key = Encoding.ASCII.GetBytes(builder.Configuration["Jwt:Key"]);
+var key = Encoding.ASCII.GetBytes(builder.Configuration["Jwt:Key"]) ?? throw new InvalidOperationException("JWT Key is missing");
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     .AddJwtBearer(options =>
     {
@@ -22,6 +22,7 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
             ValidateLifetime = true,
             ValidIssuer = builder.Configuration["Jwt:Issuer"],
             ValidAudience = builder.Configuration["Jwt:Audience"],
+            ClockSkew = TimeSpan.Zero // Elimina retrasos en expiración del token
         };
     });
 

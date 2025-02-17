@@ -13,12 +13,12 @@ namespace JoseAnchaluisaVillonApi.Helpers
 
         public JwtService(IConfiguration configuration)
         {
-            _key = configuration["Jwt:Key"];
-            _Issuer = configuration["Jwt:Issuer"];
-            _Audience = configuration["Jwt:Audience"];
+            _key = configuration["Jwt:Key"] ?? throw new InvalidOperationException("JWT Key is missing");
+            _Issuer = configuration["Jwt:Issuer"] ?? throw new InvalidOperationException("JWT Issuer is missing");
+            _Audience = configuration["Jwt:Audience"] ?? throw new InvalidOperationException("JWT Audience is missing");
 
         }
-      
+
         public string GenerateToken(string username)
         {
             var tokenHandler = new JwtSecurityTokenHandler();
@@ -36,6 +36,5 @@ namespace JoseAnchaluisaVillonApi.Helpers
             var token = tokenHandler.CreateToken(tokenDescriptor);
             return tokenHandler.WriteToken(token);
         }
-
     }
 }

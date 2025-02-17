@@ -1,5 +1,6 @@
 ﻿using JoseAnchaluisaVillonApi.DTO;
 using JoseAnchaluisaVillonApi.Helpers;
+using JoseAnchaluisaVillonApi.Services;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Data.SqlClient;
@@ -12,10 +13,12 @@ namespace JoseAnchaluisaVillonApi.Controllers
     [ApiController]
     public class AtletasController : ControllerBase
     {
+        private readonly ILoggerService _logger;
         private readonly DatabaseHelper _dbHelper;
 
-        public AtletasController(DatabaseHelper dbHelper)
+        public AtletasController(ILoggerService logger, DatabaseHelper dbHelper)
         {
+            _logger = logger;
             _dbHelper = dbHelper;
         }
 
@@ -61,6 +64,7 @@ namespace JoseAnchaluisaVillonApi.Controllers
         [HttpGet("intentos-deportista")]
         public IActionResult GetIntentosPorDeportista([FromQuery] int idDeportista)
         {
+            _logger.Log($"Consulta de intentos para el deportista con ID: {idDeportista}");
             string query = "EXEC IntentoDeportista @idDeportista";
             var parameters = new[] { new SqlParameter("@idDeportista", idDeportista) };
             var dt = _dbHelper.ExecuteQuery(query, parameters);
