@@ -1,0 +1,6 @@
+@JoseAnchaluisaVillonApi_HostAddress = http://localhost:5046
+
+GET {{JoseAnchaluisaVillonApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

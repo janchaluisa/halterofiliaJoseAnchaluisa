@@ -1,0 +1,124 @@
+[
+  {
+    "ContainingType": "JoseAnchaluisaVillonApi.Controllers.AtletasController",
+    "Method": "GetIntentosPorDeportista",
+    "RelativePath": "api/Atletas/intentos-deportista",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idDeportista",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JoseAnchaluisaVillonApi.Controllers.AtletasController",
+    "Method": "RegistrarDeportista",
+    "RelativePath": "api/Atletas/registrar-deportista",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "JoseAnchaluisaVillonApi.DTO.DeportistaDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JoseAnchaluisaVillonApi.Controllers.AtletasController",
+    "Method": "RegistrarIntento",
+    "RelativePath": "api/Atletas/registrar-intento",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "JoseAnchaluisaVillonApi.DTO.IntentoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JoseAnchaluisaVillonApi.Controllers.AtletasController",
+    "Method": "RegistrarPais",
+    "RelativePath": "api/Atletas/registrar-pais",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "JoseAnchaluisaVillonApi.DTO.PaisDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JoseAnchaluisaVillonApi.Controllers.AtletasController",
+    "Method": "GetResultados",
+    "RelativePath": "api/Atletas/resultados",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JoseAnchaluisaVillonApi.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "JoseAnchaluisaVillonApi.Controllers.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JoseAnchaluisaVillonApi.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[JoseAnchaluisaVillonApi.WeatherForecast, JoseAnchaluisaVillonApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

@@ -1,0 +1,25 @@
+http://localhost:5046/api/Auth/login
+
+http://localhost:5046/api/Atletas/resultados?page=1&pageSize=10
+
+http://localhost:5046/api/Atletas/intentos-deportista?idDeportista=1
+
+Post
+http://localhost:5046/api/Atletas/registrar-intento
+{
+  "idDeportista": 3,
+  "Tipo": "Envion",
+  "Peso": 120
+}
+
+http://localhost:5046/api/Atletas/registrar-pais
+{
+  "iniciales": "AUS",
+  "descripcion": "AUSTRALIA"
+}
+
+http://localhost:5046/api/Atletas/registrar-deportista
+{
+  "nombre_completo": "Alejandra Ortega",
+  "idPais": 3
+}
