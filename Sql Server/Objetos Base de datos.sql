@@ -6,6 +6,12 @@ GO
 USE DB_PRUEBAJOSEANCHALUISA
 GO
 
+CREATE TABLE dbo.Logs(
+	Mensaje varchar (500) NULL,
+	Fecha datetime NULL
+)
+GO
+
 CREATE	TABLE dbo.tb_Paises
 (
 	idPais		int primary key not null identity(1,1),
@@ -135,17 +141,6 @@ BEGIN
 
 	SELECT	'Total de Intentos del deportista ' + ISNULL(@nombre_completo, '') + ' es de: ' + CONVERT(varchar, ISNULL(@TotalIntentos, 0)) AS TotalIntentos
 END;
-GO
-
-CREATE	TABLE dbo.tb_Resultados
-(
-	idResultados	int primary key not null identity(1,1),
-	idDeportista	int not null,
-    MejorArranque INT NOT NULL,
-    MejorEnvion INT NOT NULL,
-    TotalPeso AS (MejorArranque + MejorEnvion) PERSISTED,
-    FOREIGN KEY (idDeportista) REFERENCES tb_Depostistas(idDeportista)
-)
 GO
 
 CREATE PROCEDURE ObtenerResultadosPaginados
